@@ -1,3 +1,5 @@
+https://larryease.github.io/JavaScript-Mini-Project/
+
 JAVASCRIPT MINI PROJECT
 create a webpage that accepts a user's details and returns the details on request. The details should be collected using prompts and stored in an object. The details shoudl be validated. The details collected should be username,phone number, emial,password and confirmed password. The details should be dispalyed on request and should contain only the username,phone number and email.
 
